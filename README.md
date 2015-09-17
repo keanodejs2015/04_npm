@@ -6,9 +6,12 @@
 
 after that run:
 
+<pre> cd 04_npm </pre>
+
 <pre> npm install </pre>
 
-To install dependencies. In this case the [colors](https://www.npmjs.com/package/colors) module
+To install dependencies.   
+In this case the [colors](https://www.npmjs.com/package/colors) module
 
 ## Credits
 
