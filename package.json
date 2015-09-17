@@ -1,0 +1,23 @@
+{
+  "name": "npm_color_test",
+  "version": "0.0.1",
+  "description": "test of modules",
+  "main": "npmColorsTest.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keanodejs/04_npm.git"
+  },
+  "author": "clbp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keanodejs/04_npm/issues"
+  },
+  "homepage": "https://github.com/keanodejs/04_npm#readme"
+}
